@@ -5,21 +5,21 @@ tp5---2021-emybar created by GitHub Classroom
 El Sring es un tipo de referencia, almacena una referencia a sus datos.
 
 # ¿Qué secuencias de escape tiene el tipo string?
-|Secuencia de escape      |	Nombre de carácter 	|
-|          \' 	       |    Comilla simple 
-|          \" 	       |   Comilla doble 	
-|          \\ 	      |    Barra diagonal inversa 	
-|          \0 	      |    Null 	
-|         \a 	      |   Alerta 	
-|         \b 	      |    Retroceso 	
-|          \f 	       |   Avance de página 	
-|         \n 	      |    Nueva línea 	
-|         \r 	       |   Retorno de carro 	
-|         \t 	      |    Tabulación horizontal 	
-|         \v 	       |   Tabulación vertical 
-|         \u 	       |   Secuencia de escape Unicode (UTF-16) 	
-|         \U 	       |   Secuencia de escape Unicode (UTF-32) 	
-|          \x 	       |   Secuencia de escape Unicode similar a "\u" excepto con longitud variable 	
+secuencia de escape 	Nombre de carácter 	
+          \' 	          Comilla simple 
+          \" 	          Comilla doble 	
+          \\ 	          Barra diagonal inversa 	
+          \0 	          Null 	
+          \a 	          Alerta 	
+          \b 	          Retroceso 	
+          \f 	          Avance de página 	
+          \n 	          Nueva línea 	
+          \r 	          Retorno de carro 	
+          \t 	          Tabulación horizontal 	
+          \v 	          Tabulación vertical 
+          \u 	          Secuencia de escape Unicode (UTF-16) 	
+          \U 	          Secuencia de escape Unicode (UTF-32) 	
+          \x 	          Secuencia de escape Unicode similar a "\u" excepto con longitud variable 		
 
 
 # ¿Qué sucede cuando utiliza el carácter @ antes de una cadena de texto?
